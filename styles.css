@@ -25,7 +25,6 @@ a:hover {
     text-decoration: underline;
     color: red;
 }
-<<<<<<< HEAD:styles.css
 nav {
     background-color: gray;
 }
@@ -36,10 +35,8 @@ nav {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('path-to-your-image.jpg') no-repeat center center/cover;
+    /* background: url('path-to-your-image.jpg') no-repeat center center/cover; */
     text-align: center;
     color: white;
     padding-top: 60px; /* Adjust based on header height */
 }
-=======
->>>>>>> branch-main:landing-page/styles.css
