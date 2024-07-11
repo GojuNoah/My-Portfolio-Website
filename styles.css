@@ -7,7 +7,6 @@
 
 /*  The following blocks are for styling the navigation bar */
 ul {
-    border: 2px solid rebeccapurple;
     display: flex;
     list-style-type: none;
     padding: .5em;
@@ -15,7 +14,6 @@ ul {
     margin: 0;
 }
 li {
-    border: 2px solid blue;
     font-size: 1.2em;
     padding: .5em;
 }
