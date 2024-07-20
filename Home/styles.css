@@ -28,15 +28,3 @@ a:hover {
 nav {
     background-color: gray;
 }
-/* For landing page */
-#home {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    /* background: url('path-to-your-image.jpg') no-repeat center center/cover; */
-    text-align: center;
-    color: white;
-    padding-top: 60px; /* Adjust based on header height */
-}
