@@ -28,3 +28,7 @@ a:hover {
 nav {
     background-color: gray;
 }
+/* Styling for only the pfp and quote to be centerd on home page. */
+.pfp {
+    border-radius: 25px;
+}
