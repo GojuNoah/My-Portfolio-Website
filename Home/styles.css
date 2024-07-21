@@ -1,4 +1,4 @@
-/* Ensuring consistency between all browsers */
+/* CSS reset */
 * {
   margin: 0;
   padding: 0;
@@ -28,7 +28,24 @@ a:hover {
 nav {
     background-color: gray;
 }
-/* Styling for only the pfp and quote to be centerd on home page. */
-.pfp {
-    border-radius: 25px;
+/* Styling for home page. */
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    max-width: 1500px;
+    margin: auto;
+    padding: 2em;
+}
+#home-content {
+    text-align: center;
+}
+#pfp {
+    border-radius: 50%;
+    height: auto;
+    max-width: 100%;
+    width: 35%;
+    margin: 0 auto;
 }
